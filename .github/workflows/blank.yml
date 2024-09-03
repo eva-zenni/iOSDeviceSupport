@@ -32,4 +32,3 @@ jobs:
         git push https://$PAT_TOKEN@github.com/Zennioptical/Zenni-iOS $release_branch
         
         
-        
